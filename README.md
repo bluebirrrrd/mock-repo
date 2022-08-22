@@ -14,4 +14,6 @@ This repo is made primarily for people to try using git. Here's what you need to
 7. Submit a pull request from your fork into this repository.
 
 ## Say hi!
+Hey, this is Anna! This is an example of what your message could look like in this section.
+
 Hi from Sam!
