@@ -1,3 +1,4 @@
+
 # mock-repo
 Repo for git practice
 
@@ -13,3 +14,4 @@ This repo is made primarily for people to try using git. Here's what you need to
 7. Submit a pull request from your fork into this repository.
 
 ## Say hi!
+Hi from Sam!
